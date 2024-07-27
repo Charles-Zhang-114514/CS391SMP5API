@@ -1,1 +1,89 @@
-
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Reimu Hakurei"
+    }
+    {
+      "id": 2,
+      "name": "Marisa Kirisame"
+    }
+    {
+      "id": 3,
+      "name": "Sakuya Izayoi"
+    }
+    {
+      "id": 4,
+      "name": "Cirno"
+    }
+    {
+      "id": 5,
+      "name": "Yukari Yakumo"
+    }
+    {
+      "id": 6,
+      "name": "Alice Margatroid"
+    }
+    ],
+  
+  "characters": [{
+    "id": 1,
+    "listId": 1,
+    "title": "Eternal Shrine Maiden",
+    "race": "Human",
+    "first appearance": "The Embodiment of Scarlet Devil",
+    "stage": "No"
+    "playable_character": "Yes"
+    "BGM": "Shoujo kisoukyoku"
+  },
+  {
+    "id": 2,
+    "listId": 2,
+    "title": "The Strange Magician",
+    "race": "Human",
+    "first appearance": "The Embodiment of Scarlet Devil",
+    "stage": "No"
+    "playable_character": "Yes"
+    "BGM": "Koiiro masutā supāku"
+  },
+  {
+    "id": 3,
+    "listId": 3,
+    "title": "Maid of the Scarlet Devil Mansion",
+    "race": "Human",
+    "first appearance": "The Embodiment of Scarlet Devil",
+    "stage": "5"
+    "playable_character": "Yes"
+    "BGM": "Tsukidokei ~ Runa daiaru"
+  }  
+  {
+    "id": 4,
+    "listId": 4,
+    "title": "Ice Fairy of the Lake",
+    "race": "Fairy",
+    "first appearance": "The Embodiment of Scarlet Devil",
+    "stage": "2"
+    "playable_character": "Yes"
+    "BGM": "Otenba koimusume"
+  },
+  {
+    "id": 5,
+    "listId": 5,
+    "title": "Mastermind behind the Spiriting Away",
+    "race": "Youkai",
+    "first appearance": "Perfect Cherry Blossom",
+    "stage": "Phantasm"
+    "playable_character": "Yes"
+    "BGM": "Nekurofantajia"
+  },
+  {
+    "id": 6,
+    "listId": 6,
+    "title": "Seven-Colored Puppeteer",
+    "race": "Magician",
+    "first appearance": "Perfect Cherry Blossom",
+    "stage": "3"
+    "playable_character": "Yes"
+    "BGM": "Ningyou saiban ~ Hito no katachi moteasobishi shoujo"
+  }
+]
