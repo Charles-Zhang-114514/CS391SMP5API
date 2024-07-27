@@ -3,23 +3,23 @@
     {
       "id": 1,
       "name": "Reimu Hakurei"
-    }
+    },
     {
       "id": 2,
       "name": "Marisa Kirisame"
-    }
+    },
     {
       "id": 3,
       "name": "Sakuya Izayoi"
-    }
+    },
     {
       "id": 4,
       "name": "Cirno"
-    }
+    },
     {
       "id": 5,
       "name": "Yukari Yakumo"
-    }
+    },
     {
       "id": 6,
       "name": "Alice Margatroid"
@@ -55,7 +55,7 @@
     "stage": "5",
     "playable_character": "Yes",
     "BGM": "Tsukidokei ~ Runa daiaru"
-  }  
+  },
   {
     "id": 4,
     "listId": 4,
