@@ -32,8 +32,8 @@
     "title": "Eternal Shrine Maiden",
     "race": "Human",
     "first appearance": "The Embodiment of Scarlet Devil",
-    "stage": "No"
-    "playable_character": "Yes"
+    "stage": "No",
+    "playable_character": "Yes",
     "BGM": "Shoujo kisoukyoku"
   },
   {
@@ -42,8 +42,8 @@
     "title": "The Strange Magician",
     "race": "Human",
     "first appearance": "The Embodiment of Scarlet Devil",
-    "stage": "No"
-    "playable_character": "Yes"
+    "stage": "No",
+    "playable_character": "Yes",
     "BGM": "Koiiro masutā supāku"
   },
   {
@@ -52,8 +52,8 @@
     "title": "Maid of the Scarlet Devil Mansion",
     "race": "Human",
     "first appearance": "The Embodiment of Scarlet Devil",
-    "stage": "5"
-    "playable_character": "Yes"
+    "stage": "5",
+    "playable_character": "Yes",
     "BGM": "Tsukidokei ~ Runa daiaru"
   }  
   {
@@ -62,8 +62,8 @@
     "title": "Ice Fairy of the Lake",
     "race": "Fairy",
     "first appearance": "The Embodiment of Scarlet Devil",
-    "stage": "2"
-    "playable_character": "Yes"
+    "stage": "2",
+    "playable_character": "Yes",
     "BGM": "Otenba koimusume"
   },
   {
@@ -72,8 +72,8 @@
     "title": "Mastermind behind the Spiriting Away",
     "race": "Youkai",
     "first appearance": "Perfect Cherry Blossom",
-    "stage": "Phantasm"
-    "playable_character": "Yes"
+    "stage": "Phantasm",
+    "playable_character": "Yes",
     "BGM": "Nekurofantajia"
   },
   {
@@ -82,8 +82,8 @@
     "title": "Seven-Colored Puppeteer",
     "race": "Magician",
     "first appearance": "Perfect Cherry Blossom",
-    "stage": "3"
-    "playable_character": "Yes"
+    "stage": "3",
+    "playable_character": "Yes",
     "BGM": "Ningyou saiban ~ Hito no katachi moteasobishi shoujo"
   }
 ]
