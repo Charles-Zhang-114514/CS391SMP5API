@@ -24,9 +24,10 @@
       "id": 6,
       "name": "Alice Margatroid"
     }
-    ],
+  ],
   
-  "characters": [{
+  "characters": [
+  {
     "id": 1,
     "listId": 1,
     "title": "Eternal Shrine Maiden",
