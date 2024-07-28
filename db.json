@@ -3,42 +3,42 @@
     {
       "id": 1,
       "name": "Reimu Hakurei",
-      "photo": "https://en.touhouwiki.net/wiki/File:Th08ReimuBackSprite.png"
+      "photo": "https://en.touhouwiki.net/images/4/4b/Th08ReimuBackSprite.png"
     },
     {
       "id": 2,
       "name": "Marisa Kirisame",
-      "photo": "https://en.touhouwiki.net/wiki/File:Th08MarisaBackSprite.png"
+      "photo": "https://en.touhouwiki.net/images/3/39/Th08MarisaBackSprite.png"
     },
     {
       "id": 3,
       "name": "Sakuya Izayoi",
-      "photo": "https://en.touhouwiki.net/wiki/File:Th08SakuyaBackSprite.png"
+      "photo": "https://en.touhouwiki.net/images/3/34/Th08SakuyaBackSprite.png"
     },
     {
       "id": 4,
       "name": "Youmu Konpaku",
-      "photo": "https://en.touhouwiki.net/wiki/File:Th08YoumuBackSprite.png"
+      "photo": "https://en.touhouwiki.net/images/c/cb/Th08YoumuBackSprite.png"
     },
     {
       "id": 5,
       "name": "Yukari Yakumo",
-      "photo": "https://en.touhouwiki.net/wiki/File:Th08YukariBackSprite.png"
+      "photo": "https://en.touhouwiki.net/images/7/7d/Th08YukariBackSprite.png"
     },
     {
       "id": 6,
       "name": "Alice Margatroid",
-      "photo": "https://en.touhouwiki.net/wiki/File:Th08AliceBackSprite.png"
+      "photo": "https://en.touhouwiki.net/images/0/01/Th08AliceBackSprite.png"
     },
     {
       "id": 7,
       "name": "Remilia Scarlet",
-      "photo": "https://en.touhouwiki.net/wiki/File:Th08RemiliaBackSprite.png"
+      "photo": "https://en.touhouwiki.net/images/c/c8/Th08RemiliaBackSprite.png"
     },
     {
       "id": 8,
       "name": "Yuyuko Saigyouji",
-      "photo": "https://en.touhouwiki.net/wiki/File:Th08YuyukoBackSprite.png"
+      "photo": "https://en.touhouwiki.net/images/f/f9/Th08YuyukoBackSprite.png"
     }
   ],
   "characters": [
@@ -48,6 +48,7 @@
       "name": "Reimu Hakurei",
       "title": "Wonderful Shrine Maiden of Paradise",
       "species": "Human",
+      "ability": "Ability to Float",
       "group": "Illusionary Barrier Team",
       "first_appearance": "TH01: Highly Responsive to Prayers",
       "speel_card": "Spirit Sign \"Dream Seal\"",
@@ -60,6 +61,7 @@
       "name": "Marisa Kirisame",
       "title": "Ordinary Black Magician",
       "species": "Human",
+      "ability": "Using magic",
       "group": "Aria of Forbidden Magic Team",
       "first_appearance": "TH02: Story of Eastern Wonderland",
       "speel_card": "Love Sign \"Master Spark\"",
@@ -72,11 +74,12 @@
       "name": "Sakuya Izayoi",
       "title": "Maid of the Scarlet Devil Mansion",
       "species": "Human",
+      "ability": "Space-time manipulation",
       "group": "Visionary Scarlet Devil Team",
       "first_appearance": "TH06: The Embodiment of Scarlet Devil",
       "speel_card": "Illusion Sign \"Killing Doll\"",
       "BGM": "Tsukidokei ~ Runa daiaru",
-      "image": "https://en.touhouwiki.net/wiki/File:SakuyaIN.png"
+      "image": "https://en.touhouwiki.net/images/2/23/SakuyaIN.png"
     },
     {
       "id": 4,
@@ -84,11 +87,12 @@
       "name": "Youmu Konpaku",
       "title": "Half-Human Half-Phantom",
       "species": "Half-Human Half-Phantom",
+      "ability": "Handling sword techniques",
       "group": "Netherworld Dwellers's Team",
       "first_appearance": "TH07: Perfect Cherry Blossom",
       "speel_card": "Human Oni \"Slash of the Eternal Future\"",
       "BGM": "Hiroari kechou o iru koto",
-      "image": "https://en.touhouwiki.net/wiki/File:YoumuIN.png"
+      "image": "https://en.touhouwiki.net/images/6/6d/YoumuIN.png"
     },
     {
       "id": 5,
@@ -96,11 +100,12 @@
       "name": "Yukari Yakumo",
       "title": "Youkai that lurks in the boundary",
       "species": "Youkai",
+      "ability": "Manipulation of boundaries",
       "group": "Illusionary Barrier Team",
       "first_appearance": "TH07: Perfect Cherry Blossom",
       "speel_card": "Border Sign \"Quadruple Barrier\"",
       "BGM": "Nekurofantajia",
-      "image": "https://en.touhouwiki.net/wiki/File:Th08Yukari.png"
+      "image": "https://en.touhouwiki.net/images/4/4c/Th08Yukari.png"
     },
     {
       "id": 6,
@@ -108,6 +113,7 @@
       "name": "Alice Margatroid",
       "title": "Seven-Colored Puppeteer",
       "species": "Magician",
+      "ability": "Magic, operating puppets",
       "group": "Aria of Forbidden Magic Team",
       "first_appearance": "TH05: Mystic Square",
       "speel_card": "Magic Sign \"Artful Sacrifice\"",
@@ -120,11 +126,12 @@
       "name": "Remilia Scarlet",
       "title": "The Scarlet Devil",
       "species": "Vampire",
+      "ability": "Manipulation of fate",
       "group": "Visionary Scarlet Devil Team",
       "first_appearance": "TH06: The Embodiment of Scarlet Devil",
       "speel_card": "Scarlet Sign \"Red the Nightless Castle\"",
       "BGM": "Naki oujo no tame no seputetto",
-      "image": "https://en.touhouwiki.net/wiki/File:RemiIN.png"
+      "image": "https://en.touhouwiki.net/images/5/5a/RemiIN.png"
     },
     {
       "id": 8,
@@ -132,11 +139,12 @@
       "name": "Yuyuko Saigyouji",
       "title": "Ghost of Idyll",
       "species": "Ghost",
+      "ability": "Manipulation of death",
       "group": "Netherworld Dwellers's Team",
       "first_appearance": "TH07: Perfect Cherry Blossom",
       "speel_card": "Death Sign \"Ghastly Dream\"",
       "BGM": "～Border of Life Yuuga ni sakase, sumizome no sakura",
-      "image": "https://en.touhouwiki.net/wiki/File:Th08YuyukoSaigyouji.png"
+      "image": "https://en.touhouwiki.net/images/2/2c/Th08YuyukoSaigyouji.png"
     }
   ]
 }
