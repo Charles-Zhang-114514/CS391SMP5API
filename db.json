@@ -2,89 +2,141 @@
   "lists": [
     {
       "id": 1,
-      "name": "Reimu Hakurei"
+      "name": "Reimu Hakurei",
+      "photo": "https://en.touhouwiki.net/wiki/File:Th08ReimuBackSprite.png"
     },
     {
       "id": 2,
-      "name": "Marisa Kirisame"
+      "name": "Marisa Kirisame",
+      "photo": "https://en.touhouwiki.net/wiki/File:Th08MarisaBackSprite.png"
     },
     {
       "id": 3,
-      "name": "Sakuya Izayoi"
+      "name": "Sakuya Izayoi",
+      "photo": "https://en.touhouwiki.net/wiki/File:Th08SakuyaBackSprite.png"
     },
     {
       "id": 4,
-      "name": "Cirno"
+      "name": "Youmu Konpaku",
+      "photo": "https://en.touhouwiki.net/wiki/File:Th08YoumuBackSprite.png"
     },
     {
       "id": 5,
-      "name": "Yukari Yakumo"
+      "name": "Yukari Yakumo",
+      "photo": "https://en.touhouwiki.net/wiki/File:Th08YukariBackSprite.png"
     },
     {
       "id": 6,
-      "name": "Alice Margatroid"
+      "name": "Alice Margatroid",
+      "photo": "https://en.touhouwiki.net/wiki/File:Th08AliceBackSprite.png"
+    }
+    {
+      "id": 7,
+      "name": "Remilia Scarlet",
+      "photo": "https://en.touhouwiki.net/wiki/File:Th08RemiliaBackSprite.png"
+    },
+    {
+      "id": 8,
+      "name": "Yuyuko Saigyouji",
+      "photo": "https://en.touhouwiki.net/wiki/File:Th08YuyukoBackSprite.png"
     }
   ],
   "characters": [
     {
       "id": 1,
       "listId": 1,
-      "title": "Eternal Shrine Maiden",
-      "race": "Human",
-      "first_appearance": "The Embodiment of Scarlet Devil",
-      "stage": "No",
-      "playable_character": "Yes",
-      "BGM": "Shoujo kisoukyoku"
+      "name": "Reimu Hakurei",
+      "title": "Wonderful Shrine Maiden of Paradise",
+      "species": "Human",
+      "group":"Illusionary Barrier Team",
+      "first_appearance": "TH01: Highly Responsive to Prayers",
+      "speel_card":"Spirit Sign "Dream Seal"",
+      "BGM": "Shoujo kisoukyoku",
+      "image": "https://en.touhouwiki.net/images/8/81/Th08Reimu.png"
     },
     {
       "id": 2,
       "listId": 2,
-      "title": "The Strange Magician",
-      "race": "Human",
-      "first_appearance": "The Embodiment of Scarlet Devil",
-      "stage": "No",
-      "playable_character": "Yes",
-      "BGM": "Koiiro masutā supāku"
+      "name": "Marisa Kirisame",
+      "title": "Ordinary Black Magician",
+      "species": "Human",
+      "group":"Aria of Forbidden Magic Team",
+      "first_appearance": "TH02: Story of Eastern Wonderland",
+      "speel_card":"Love Sign "Master Spark"",
+      "BGM": "Koiiro masutā supāku",
+      "image": "https://en.touhouwiki.net/images/a/af/MarisaIN.png"
     },
     {
       "id": 3,
       "listId": 3,
+      "name": "Sakuya Izayoi",
       "title": "Maid of the Scarlet Devil Mansion",
-      "race": "Human",
-      "first_appearance": "The Embodiment of Scarlet Devil",
-      "stage": "5",
-      "playable_character": "Yes",
-      "BGM": "Tsukidokei ~ Runa daiaru"
+      "species": "Human",
+      "group":"Visionary Scarlet Devil Team",
+      "first_appearance": "TH06: The Embodiment of Scarlet Devil",
+      "speel_card":"Illusion Sign "Killing Doll"",
+      "BGM": "Tsukidokei ~ Runa daiaru",
+      "image": "https://en.touhouwiki.net/wiki/File:SakuyaIN.png"
     },
     {
       "id": 4,
       "listId": 4,
-      "title": "Ice Fairy of the Lake",
-      "race": "Fairy",
-      "first_appearance": "The Embodiment of Scarlet Devil",
-      "stage": "2",
-      "playable_character": "Yes",
-      "BGM": "Otenba koimusume"
+      "name": "Youmu Konpaku",
+      "title": "Half-Human Half-Phantom",
+      "species": "Half-Human Half-Phantom",
+      "group":"Netherworld Dwellers's Team",
+      "first_appearance": "TH07: Perfect Cherry Blossom",
+      "speel_card":"Human Oni "Slash of the Eternal Future"",
+      "BGM": "Hiroari kechou o iru koto",
+      "image": "https://en.touhouwiki.net/wiki/File:YoumuIN.png"
     },
     {
       "id": 5,
       "listId": 5,
-      "title": "Mastermind behind the Spiriting Away",
-      "race": "Youkai",
-      "first_appearance": "Perfect Cherry Blossom",
-      "stage": "Phantasm",
-      "playable_character": "Yes",
-      "BGM": "Nekurofantajia"
+      "name": "Yukari Yakumo",
+      "title": "Youkai that lurks in the boundary",
+      "species": "Youkai",
+      "group":"Illusionary Barrier Team",
+      "first_appearance": "TH07: Perfect Cherry Blossom",
+      "speel_card":"Border Sign "Quadruple Barrier"",
+      "BGM": "Nekurofantajia",
+      "image": "https://en.touhouwiki.net/wiki/File:Th08Yukari.png"
     },
     {
       "id": 6,
       "listId": 6,
+      "name": "Alice Margatroid",
       "title": "Seven-Colored Puppeteer",
-      "race": "Magician",
-      "first_appearance": "Perfect Cherry Blossom",
-      "stage": "3",
-      "playable_character": "Yes",
-      "BGM": "Ningyou saiban ~ Hito no katachi moteasobishi shoujo"
+      "species": "Magician",
+      "group":"Aria of Forbidden Magic Team",
+      "first_appearance": "TH05: Mystic Square",
+      "speel_card":"Magic Sign "Artful Sacrifice"",
+      "BGM": "Ningyou saiban ~ Hito no katachi moteasobishi shoujo",
+      "image": "https://en.touhouwiki.net/wiki/File:Th08AliceMargatroid.png"
+    },
+        {
+      "id": 7,
+      "listId": 7,
+      "name": "Remilia Scarlet",
+      "title": "The Scarlet Devil",
+      "species": "Vampire",
+      "group":"Visionary Scarlet Devil Team",
+      "first_appearance": "TH06: The Embodiment of Scarlet Devil",
+      "speel_card":"Scarlet Sign "Red the Nightless Castle"",
+      "BGM": "Naki oujo no tame no seputetto",
+      "image": "https://en.touhouwiki.net/wiki/File:RemiIN.png"
+    },
+        {
+      "id": 8,
+      "listId": 8,
+      "name": "Yuyuko Saigyouji",
+      "title": "Ghost of Idyll",
+      "species": "Ghost",
+      "group":"Netherworld Dwellers's Team",
+      "first_appearance": "TH07: Perfect Cherry Blossom",
+      "speel_card":"Death Sign "Ghastly Dream"",
+      "BGM": "～Border of Life Yuuga ni sakase, sumizome no sakura",
+      "image": "https://en.touhouwiki.net/wiki/File:Th08YuyukoSaigyouji.png"
     }
   ]
 }
